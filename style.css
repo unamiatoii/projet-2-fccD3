@@ -1,0 +1,17 @@
+/* styles.css */
+.dot {
+    fill: steelblue;
+    opacity: 0.7;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  #tooltip {
+    position: absolute;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #fff;
+  }
+  
